@@ -62,7 +62,7 @@ end
 Citizen.CreateThread(function()
     while true do
         if ESX.PlayerData.job.name == config.namejob then    
-            local timer = 1000
+            local timer = 500
             local coordsp = GetEntityCoords(PlayerPedId())
             local dist = Vdist(coordsp.x, coordsp.y, coordsp.z, config.pos.Menu.position.x, config.pos.Menu.position.y, config.pos.Menu.position.z)
             if dist <= 1.0 then
