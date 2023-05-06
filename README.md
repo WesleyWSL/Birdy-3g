@@ -9,6 +9,6 @@
 - discord : https://discord.gg/8JHRJZYDcV
 
 
-- MAJ par Wesley le 06/05/2023, mise en place des images directement par les fichiers pour evier une suppression : 
+- MAJ par Wesley le 06/05/2023, mise en place des images directement par les fichiers pour eviter une suppression : 
 
 Modif : Index.HTML
